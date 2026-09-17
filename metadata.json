@@ -1,0 +1,6 @@
+{
+  "name": "Étoile – Baletná Škola",
+  "description": "Minimalistické baletné štúdio a škola klasického tanca. Kurzy pre deti, mládež a dospelých, týždenný rozvrh a online rezervácia skúšobnej lekcie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
